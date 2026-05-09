@@ -1,0 +1,15 @@
+# Ignore model weights
+*.pt
+*.pth
+
+# Ignore wandb logs
+wandb/
+
+# Ignore Python cache and environments
+__pycache__/
+.venv/
+venv/
+
+# Ignore datasets
+data/
+*.csv
