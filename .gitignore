@@ -2,6 +2,8 @@
 *.pt
 *.pth
 
+__pycache__/
+.vscode/
 # Ignore wandb logs
 wandb/
 
